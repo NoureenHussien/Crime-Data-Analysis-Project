@@ -120,12 +120,12 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 
 ## 📷 Preview
 ### 🗺️ Interactive Crime Map
-![Crime Map](crime_map.png)
+![Crime Map](Crime_Map.png)
 
 ### 🕒 Crime Clock
-![Crime Clock](crime_clock.png)
+![Crime Clock](Crime_Clock.png)
 
-### 📊 Cluster Visualization
+### 📊 Crime Category Distribution
 ![Clusters](Clusters...png)
 
 ### 🌪️ Crime Resolution Flow
