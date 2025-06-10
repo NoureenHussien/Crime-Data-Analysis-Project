@@ -117,16 +117,16 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 
 ## 📷 Preview
 ### 🗺️ Interactive Crime Map
-![Crime Map](assets/crime_map.png)
+![Crime Map](crime_map.png)
 
 ### 🕒 Crime Clock
-![Crime Clock](assets/crime_clock.png)
+![Crime Clock](crime_clock.png)
 
 ### 📊 Cluster Visualization
 ![Clusters](assets/clusters.png)
 
 ### 🌪️ Crime Resolution Flow
-![Crime Resolution ](assets/Crime_Resolution_Flow.png)
+![Crime Resolution ](Crime_Resolution_Flow.png)
 
 --
 
