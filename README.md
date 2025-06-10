@@ -52,6 +52,8 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 - Distance: `Euclidean`  
 📈 Silhouette Score: `0.497`
 
+#### 📊 Cluster Visualization
+![Clusters](assets/clusters.png)
 ---
 
 ### 2️⃣ Random Forest Classification
@@ -123,14 +125,10 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 ### 📊 Cluster Visualization
 ![Clusters](assets/clusters.png)
 
-### 🗺️ Interactive Crime Map
-![Crime Map](assets/crime_map.png)
+### 🌪️ Crime Resolution Flow
+![Crime Resolution ](assets/Crime_Resolution_Flow.png)
 
-### 🕒 Crime Clock
-![Crime Clock](assets/crime_clock.png)
-
-### 📊 Cluster Visualization
-![Clusters](assets/clusters.png)
+--
 
 ## 📦 Dependencies
 
