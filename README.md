@@ -131,7 +131,7 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 ### 🌪️ Crime Resolution Flow
 ![Crime Resolution ](Crime_Resolution_Flow.png)
 
---
+---
 
 ## 📦 Dependencies
 
