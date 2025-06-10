@@ -113,6 +113,25 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 
 ---
 
+## 📷 Preview
+### 🗺️ Interactive Crime Map
+![Crime Map](assets/crime_map.png)
+
+### 🕒 Crime Clock
+![Crime Clock](assets/crime_clock.png)
+
+### 📊 Cluster Visualization
+![Clusters](assets/clusters.png)
+
+### 🗺️ Interactive Crime Map
+![Crime Map](assets/crime_map.png)
+
+### 🕒 Crime Clock
+![Crime Clock](assets/crime_clock.png)
+
+### 📊 Cluster Visualization
+![Clusters](assets/clusters.png)
+
 ## 📦 Dependencies
 
 Make sure to install the following packages:
