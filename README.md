@@ -52,8 +52,9 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 - Distance: `Euclidean`  
 📈 Silhouette Score: `0.497`
 
-#### 📊 Cluster Visualization
-![Clusters](assets/clusters.png)
+#### 📊 Hierarchical Visualization
+![Hierarchical](Hierarchical_Clustering.png)
+
 ---
 
 ### 2️⃣ Random Forest Classification
@@ -87,6 +88,8 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 **Top Crime**: `LARCENY/THEFT` was the most common in all clusters  
 🕒 Notable temporal trends were observed in each cluster
 
+#### 📊 Cluster Visualization
+![Clusters](clusters.png)
 ---
 
 ## 📊 Visualizations
@@ -123,7 +126,7 @@ This project analyzes crime data from **San Francisco** using advanced **machine
 ![Crime Clock](crime_clock.png)
 
 ### 📊 Cluster Visualization
-![Clusters](assets/clusters.png)
+![Clusters](Clusters...png)
 
 ### 🌪️ Crime Resolution Flow
 ![Crime Resolution ](Crime_Resolution_Flow.png)
